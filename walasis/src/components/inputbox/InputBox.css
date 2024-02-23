@@ -1,0 +1,22 @@
+.ClassInputBox {
+  box-sizing: border-box;
+  min-width: 120px;
+  min-height: 100px;
+  border-radius: 5px;
+  border-color: aqua;
+}
+.ClassBtnBox{
+    box-sizing: border-box;
+    min-width: 190px;
+    min-height: 100px;
+    border-radius: 5px;
+}
+
+.ClassBtnBox:hover {
+    color: white !important;
+}
+.InputSection{
+    max-width: 100%;
+    max-height: 100vh;
+    overflow-y: scroll;
+}
